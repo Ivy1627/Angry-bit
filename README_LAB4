@@ -1,0 +1,14 @@
+<Jingxin Zhang>
+
+BY SUBMITTING THIS FILE TO CARMEN, I CERTIFY THAT I HAVE PERFORMED ALL
+OF THE WORK TO DETERMINE THE ANSWERS FOUND WITHIN THIS FILE MYSELF WITH
+NO ASSISTANCE FROM ANY PERSON OTHER THAN THE INSTRUCTOR OF THIS COURSE
+OR ONE OF OUR UNDERGRADUATE GRADERS.
+
+My lab4 seemed to pass all the checks on the grading sheet.
+
+For the 5 existing prototypes, p1 is not working so don't run it (it will gives a message indicating that it is not running). To see how the other prototypes work, just make them separately and then run each executable(put p2 or p3, p4, p5) to see the output.
+
+I worked more than 30 hours on this lab and spent a long time solving the infinite loop produced by the sort function. To get the error and diagnostic messages correct and in place also took me much time.
+
+I hope we can go over examples of how to use gdb debuggers (when there is no seg default, when to step into a function) in class.

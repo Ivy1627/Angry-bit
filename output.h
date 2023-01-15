@@ -1,0 +1,29 @@
+/* Jingxin Zhang */
+
+void allocate_launcher_error(ushort hex);
+void clear_air(Sim *p2sim);
+void clear_impact(Sim *p2sim);
+void clear_launcher(Sim *p2sim);
+void draw_air(void *data);
+void draw_ground(Bird *p2bird);
+void draw_impact(void *data);
+void draw_world(Sim *p2sim);
+void fail_airinsertion(Bird *p2bird);
+void fail_impactinsertion(Bird *p2bird);
+void final_world(Sim *p2sim);
+char* get_color(int type);
+void impact_message(void *data);
+void launch_message(ushort bits);
+void load_message(ushort bits);
+void output_world(Sim *p2sim);
+void predict(Bird *p2bird);
+void print_add(ushort hex);
+void print_air_list(Sim *p2sim);
+void print_allocation(int num);
+void print_free(int num);
+void print_ground(void *data);
+void print_impact_list(Sim *p2sim);
+void print_launcher(Sim *p2sim);
+void print_movement(void *data);
+void print_score(Sim *p2sim);
+void print_world(Sim *p2sim);
